@@ -4,7 +4,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-/*捕捉android.intent.action.BOOT_COMPLETED的Receiver类1*/
+/*捕捉android.intent.action.BOOT_COMPLETED的Receiver类*/
 public class StartupIntentReceiver extends BroadcastReceiver{
 	
 	@Override
